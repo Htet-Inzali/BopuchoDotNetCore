@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BopuchoDotNetCore.ConsoleApp", "BopuchoDotNetCore.ConsoleApp\BopuchoDotNetCore.ConsoleApp.csproj", "{C757D5C5-AC2C-4830-8026-A7292F838846}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BopuchoDotNetCore.ConsoleApp", "BopuchoDotNetCore.ConsoleApp\BopuchoDotNetCore.ConsoleApp.csproj", "{C757D5C5-AC2C-4830-8026-A7292F838846}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Document", "Document", "{1FA282EE-6157-4668-98DE-CFDD0FB385C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
